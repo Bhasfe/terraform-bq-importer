@@ -1,0 +1,18 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Id",
+    "policyTags": {
+      "names": []
+    },
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Name",
+    "policyTags": {
+      "names": []
+    },
+    "type": "STRING"
+  }
+]

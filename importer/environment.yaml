@@ -1,0 +1,13 @@
+name: importer-env
+channels:
+  - defaults
+dependencies:
+  - python=3.8.3
+  - pip
+  - pip:
+    - google-cloud-bigquery
+    - google-api-python-client
+    - python-dotenv
+    - oauth2client
+    - pyarrow
+    - pandas
